@@ -6,14 +6,14 @@ de um programa para armazenar dados meteorológicos em um arquivo local no compu
 O programa oferece uma interface simples e intuitiva para a entrada e consulta de informações, 
 permitindo que o usuário mantenha um registro organizado das condições climáticas.
 
-##Funcionalidades
+## Funcionalidades
 Inserção de Dados Meteorológicos:
 
 O usuário pode inserir dados meteorológicos, como temperatura, cidade e data.
 Cada conjunto de dados é associado a uma data e hora específicas.
 
 
-##Consulta de Dados Armazenados:
+## Consulta de Dados Armazenados:
 
 Possibilidade de visualizar os dados meteorológicos armazenados.
 Opção de filtrar os dados por data, hora, ou tipo de condição meteorológica.
